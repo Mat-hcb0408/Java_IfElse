@@ -1,6 +1,6 @@
 package Atividades_IfElse;
 import java.util.Scanner;
-public class Atv3_5 {
+public class Atv3_4 {
     public class VerificarComprimentoPalavra {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
