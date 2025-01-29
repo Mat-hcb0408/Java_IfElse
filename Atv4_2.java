@@ -1,6 +1,6 @@
 package Atividades_IfElse;
 import java.util.Scanner;
-public class Atv4_3 {
+public class Atv4_2 {
     public static void main(String[] args) {
                 Scanner scanner = new Scanner(System.in);
 
