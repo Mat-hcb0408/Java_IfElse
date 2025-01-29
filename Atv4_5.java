@@ -1,6 +1,6 @@
 package Atividades_IfElse;
 import java.util.Scanner;
-public class Atv4_6 {
+public class Atv4_5 {
     public class VerificarQuadradoPerfeito {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
